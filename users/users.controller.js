@@ -56,7 +56,7 @@ function authenticate(req, res, next) {
 
 /**
      * @openapi
-     * '/api/user/register':
+     * '/users/register':
      *  post:
      *     tags:
      *     - User Controller
